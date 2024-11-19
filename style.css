@@ -1,0 +1,36 @@
+body {
+    background-color: #222222;
+    color: white;
+    background-image: url('main.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+.link-box {
+    background-color: black;
+    margin-left: 60px;
+    color: white;
+ }
+
+ .link-box a {
+    color: #96c8ff;
+ }
+
+.link-box a: visited {
+  color: #097dff;
+}
+
+.content {
+    color: white;
+    background-color: black;
+}
+
+ .narrow{
+width: 215px;
+ }
+
+.wide{
+width: 40%;
+}
